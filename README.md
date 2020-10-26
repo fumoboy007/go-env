@@ -1,9 +1,8 @@
 # go-env
 
-[![GoDoc](https://godoc.org/github.com/qiangxue/go-env?status.png)](http://godoc.org/github.com/qiangxue/go-env)
-[![Build Status](https://travis-ci.org/qiangxue/go-env.svg?branch=master)](https://travis-ci.org/qiangxue/go-env)
-[![Coverage Status](https://coveralls.io/repos/github/qiangxue/go-env/badge.svg?branch=master)](https://coveralls.io/github/qiangxue/go-env?branch=master)
-[![Go Report](https://goreportcard.com/badge/github.com/qiangxue/go-env)](https://goreportcard.com/report/github.com/qiangxue/go-env)
+[![GoDoc](https://godoc.org/github.com/fumoboy007/go-env?status.png)](http://godoc.org/github.com/fumoboy007/go-env)
+[![Coverage Status](https://coveralls.io/repos/github/fumoboy007/go-env/badge.svg?branch=master)](https://coveralls.io/github/fumoboy007/go-env?branch=master)
+[![Go Report](https://goreportcard.com/badge/github.com/fumoboy007/go-env)](https://goreportcard.com/report/github.com/fumoboy007/go-env)
 
 ## Description
 
@@ -22,7 +21,7 @@ Go 1.13 or above.
 Run the following command to install the package:
 
 ```
-go get github.com/qiangxue/go-env
+go get github.com/fumoboy007/go-env
 ```
 
 ### Loading From Environment Variables
@@ -36,7 +35,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/qiangxue/go-env"
+	"github.com/fumoboy007/go-env"
 )
 
 type Config struct {
@@ -89,7 +88,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/qiangxue/go-env"
+	"github.com/fumoboy007/go-env"
 )
 
 type Config struct {

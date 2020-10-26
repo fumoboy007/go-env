@@ -1,4 +1,4 @@
-module github.com/qiangxue/go-env
+module github.com/fumoboy007/go-env
 
 go 1.13
 
